@@ -25,3 +25,6 @@ if type(output) == list:
         print(item)
 else:
     print(output)
+
+    
+#Works with data.json file
