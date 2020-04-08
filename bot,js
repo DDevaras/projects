@@ -13,7 +13,7 @@ const options = {
   identity: {
     username: BOT_USERNAME,
     password: BOT_PASSWORD
-  },
+  }, 
   channels: [BOT_USERNAME]
 };
 
