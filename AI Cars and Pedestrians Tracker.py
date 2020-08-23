@@ -1,4 +1,4 @@
-import cv2
+import cv2 
 
 img_file = 'Car image.jpg'
 video = cv2.VideoCapture('Insert Name of Car video.mp4')
