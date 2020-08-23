@@ -15,7 +15,7 @@ pedestrian_tracker = cv2.CascadeClassifier(pedestrian_tracker_file)
 
 
 #Run forver until car stops or something
-while True:
+while True: 
 
     # Read the current frame, Reads a single frame from the cv2.VideoCapture video after implementing that code. Frame is the image from vdieo
     (read_successful, frame) = video.read()
