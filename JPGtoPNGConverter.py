@@ -8,7 +8,7 @@ images_folder = sys.argv[1]
 output_folder = sys.argv[2]
 
 
-#check if new\ exists, if not create it
+#check if new/ exists, if not create it
 if not os.path.exists(output_folder):
   os.makedirs(output_folder)
 
